@@ -1,0 +1,2 @@
+# VerticalSeekBar
+解决滑块不跟随和 onStartTrackingTouch，onStopTrackingTouch没反应的bug
